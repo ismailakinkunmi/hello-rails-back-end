@@ -2,7 +2,7 @@
 
 # hello-rails-back-end App
 
-This app covers how to setup a rails API app as a single app whiich serves as the Back-end, integrating the react app as the Front-end.
+This app covers how to setup a rails API app as two app which serves as the Back-end, integrating the react-redux app as the Front-end.
 
 ## Front-End App
 
